@@ -1,4 +1,16 @@
 {
+  "claude-opus-4.8-xhigh": {
+    "trajs_dir": "claude-opus-4-8-xhigh",
+    "logs_dir": "vertex_ai__claude-opus-4-8",
+    "report_file": "claude-opus-4.8-xhigh.opt@1.pass.report.json",
+    "docent_id": "ab7f1039-bc2f-4442-8203-5545828cb511"
+  },
+  "claude-sonnet-5-xhigh": {
+    "trajs_dir": "claude-sonnet-5-xhigh",
+    "logs_dir": "vertex_ai__claude-sonnet-5",
+    "report_file": "claude-sonnet-5-xhigh.opt@1.pass.report.json",
+    "docent_id": "5ceb2d2b-991b-4250-9b31-da6b5f11887e"
+  },
   "claude-opus-4.7": {
     "trajs_dir": "claude-opus-4-7",
     "logs_dir": "vertex_ai__claude-opus-4-7",
