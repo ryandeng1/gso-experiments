@@ -1,5 +1,17 @@
 {
   "models": {
+    "perf-agent-gpt-5.1": {
+      "docent_url": "",
+      "gcs_path": "",
+      "report": "reports/perf_agent_gpt_5-1.json",
+      "summary": {
+        "total_instances": 102,
+        "opt_commit": 43,
+        "opt_base": 76,
+        "passed": 91,
+        "score": 42.16
+      }
+    },
     "claude-opus-4.8-xhigh": {
       "docent_url": "https://docent.transluce.org/dashboard/ab7f1039-bc2f-4442-8203-5545828cb511",
       "gcs_path": "gs://gso-experiments/claude-opus-4.8-xhigh",
